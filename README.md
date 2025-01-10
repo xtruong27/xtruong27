@@ -1,4 +1,4 @@
- 👋 Hi, I’m @xtruong27  
+ 👋 Hi, I’m Xuan Truong 
  👀 I’m interested in YOU  
 🌱 I’m currently learning ReactJs and NodeJs  
 💞️ I’m looking to collaborate on ReactJs projects  
